@@ -2,4 +2,4 @@
 
 Please find the webpage at https://webapplication2234.azurewebsites.net
 
-Client code is in Default.aspx and Default.aspx.cs, Rest of the files is part of the template. 
+Client code is in Default.aspx and Default.aspx.cs, Rest of the files are part of the template. 
